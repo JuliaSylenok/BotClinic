@@ -29,6 +29,9 @@ public class Program
         new ClinicService { Title = "УЗД органів черевної порожнини", Description = "Ультразвукове дослідження органів черевної порожнини", Category = "Діагностика", Price = 200 },
         new ClinicService { Title = "Аналіз крові", Description = "Загальний аналіз крові", Category = "Діагностика", Price = 80 },
         new ClinicService { Title = "Вакцинація", Description = "Введення вакцини за вибором", Category = "Профілактика", Price = 120 },
+        new ClinicService { Title = "Загальне обстеження зубів", Description = "Загальне обстеження зубів та поради стосовно їх догляду", Category = "Стоматологія", Price = 90 },
+        new ClinicService { Title = "Рентген зубів", Description = "Рентгенівське дослідження зубів", Category = "Стоматологія", Price = 150 },
+        new ClinicService { Title = "Чистка зубів", Description = "Професійна чистка зубів", Category = "Стоматологія", Price = 70 }
     };
 
     public static async Task Main(string[] args)
