@@ -41,7 +41,7 @@
 -	Надає можливість переглянути коротку загальну інформацію та фото клініки.
  ![image](https://github.com/JuliaSylenok/BotClinic/assets/149322465/8b8c8e69-591a-411a-a224-34dab9de3472)
 
-Віріаціїї клавіатур, що були створені:
+Віріації клавіатур, що були створені:
 ![image](https://github.com/JuliaSylenok/BotClinic/assets/149322465/ab2ac8a8-0116-411c-aae9-ccabaf0fa8cf)
 ![image](https://github.com/JuliaSylenok/BotClinic/assets/149322465/b9d6690e-97bb-4233-98aa-9233989c7a03)
 
